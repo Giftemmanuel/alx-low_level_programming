@@ -20,4 +20,4 @@ void print_square(int size);
 
 void print_triangle(int size);
 
-void print _number(int m);
+void print_number(int m);
